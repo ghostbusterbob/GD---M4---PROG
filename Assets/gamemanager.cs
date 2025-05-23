@@ -3,7 +3,7 @@ using UnityEngine.SocialPlatforms.Impl;
 
 public class GameManager : MonoBehaviour
 {
-   public float speed = 5f;//Zet de snelheid op 5 (float)
+    public float speed = 5f;//Zet de snelheid op 5 (float)
     public float timeLeft = 20f; //Zet de starttijd op 20 seconden (float).
     private int score = 0;  //Zet de score op 0 (int)
 
@@ -42,7 +42,7 @@ public class GameManager : MonoBehaviour
    {
 
       //Check de naam van het gameobject dat de trigger heeft geraakt. Dit moet "Coin" zijn.
-         if (other.gameObject.tag == "Coin")
+         if (other.gameObject.CompareTag("Coin"))
          {
             //Voeg 10 punten toe aan je score
             score += 10;
