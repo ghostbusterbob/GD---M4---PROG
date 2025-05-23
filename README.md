@@ -10,3 +10,7 @@ Gif:
 
 Gif:
 ![](ezgif-85afe04e56574d.gif)
+
+# Opdracht 3: Muntenjacht timed
+**Link naar code: https://github.com/ghostbusterbob1/GD---M4---PROG/blob/main/Assets/gamemanager.cs**
+![](2025-05-23%2011-56-52.gif)
