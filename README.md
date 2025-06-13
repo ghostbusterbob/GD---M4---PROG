@@ -15,6 +15,11 @@ Gif:
 **Link naar code: https://github.com/ghostbusterbob1/GD---M4---PROG/blob/main/Assets/gamemanager.cs**
 ![](2025-05-23%2011-56-52.gif)
 
+# Opdracht 4:
+**Link naar code: https://github.com/ghostbusterbob/GD---M4---PROG/blob/main/Assets/SceneSwitcher.cs**
+![ezgif-73e384609a7fe4](https://github.com/user-attachments/assets/e7378992-4ee8-4670-8d42-538f6393b697)
+
+
 # Opdracht 6: 
 **Link naar code :**
 **https://github.com/ghostbusterbob/GD---M4---PROG/blob/main/Assets/Playermove.cs**
