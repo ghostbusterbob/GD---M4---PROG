@@ -6,7 +6,7 @@ public class PlayerMove : MonoBehaviour
     [SerializeField] private GameObject bulletprefab;
     [SerializeField] private GameObject enemyposition;
 
-    private GameObject currentBullet; // holds the reference to the instantiated bullet
+    private GameObject currentBullet; 
 
     void Update()
     {
@@ -22,10 +22,7 @@ public class PlayerMove : MonoBehaviour
 
         if (currentBullet != null)
         {
-            currentBullet.transform.position = Vector3.Lerp(
-                currentBullet.transform.position,
-                enemyposition.transform.position,
-                10f * Time.deltaTime
+            currentBullet.transform.position = Vector3.Lerp(currentBullet.transform.position, enemyposition.transform.position, 10f * Time.deltaTime
             );
         }
     }
