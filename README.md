@@ -16,6 +16,7 @@ Gif:
 ![](2025-05-23%2011-56-52.gif)
 
 # Opdracht 4:
+**Ik heb een for loop gebruikt om alle munten in te spawnen, en gecoded dat je als je op spatie drukt dat je dan van scene switched.
 **Link naar code: https://github.com/ghostbusterbob/GD---M4---PROG/blob/main/Assets/SceneSwitcher.cs**
 ![ezgif-73e384609a7fe4](https://github.com/user-attachments/assets/e7378992-4ee8-4670-8d42-538f6393b697)
 
